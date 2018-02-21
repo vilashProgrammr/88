@@ -6,6 +6,9 @@ if(isset($_GET['delete_id']))
 {
 	//delete logic here
 	
+	//dj+10@programmr.com
+	//sadsafasfsafsafa
+	saf
 }
 // delete condition
 
