@@ -5,7 +5,9 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
-	
+	//dj+5@programmr.com
+	//delete logic
+	$sql_query="DELETE FROM users WHERE user_id=".$_GET['delete_id'];
 }
 // delete condition
 
